@@ -1,6 +1,4 @@
---[[
-cd C:\Users\user\Google Drive\Code\HackerCode\DONE && "F:\Program Files\Binaries-LuaDist-batteries-0.9.8-Windows-x86\bin\lua.exe" HackerCode.lua
--- ]]
+#!/usr/bin/env lua
 function round(value)
   if value >= 0.5 then
     return 1
