@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 def round(value)
 	if value >= 0.5
 		return 1
