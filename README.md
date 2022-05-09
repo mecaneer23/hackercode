@@ -27,5 +27,6 @@ Resolve by opening the file in question in vim and running the following command
 - Python
 - R
 - Ruby
+- Rust
 - Swift
 - Typescript
