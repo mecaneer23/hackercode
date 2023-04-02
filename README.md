@@ -10,9 +10,10 @@ Resolve by opening the file in question in vim and running the following command
 :set ff=unix
 ```
 
-## Current languages (18)
+## Current languages (19)
 
 - Bash
+- Batch
 - C
 - C#
 - C++
